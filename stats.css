@@ -113,7 +113,7 @@
     width: 100%;
     /* 20px - 40px */
     padding: clamp(1.25rem, 3vw, 2.5rem);
-    background-color: #f7f7f7;
+    background-color: #363636;
     display: flex;
     /* 24px - 80px */
     flex-direction: column;
