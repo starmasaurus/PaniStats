@@ -140,9 +140,9 @@
   }
   #stats-1687 .cs-graphic {
     /* 131px - 233px */
-    width: clamp(3rem, 16vw, 7rem);
+    width: clamp(3rem, 16vw, 12rem);
     /* 131px - 233px */
-    height: clamp(3rem, 16vw, 7rem);
+    height: clamp(3rem, 16vw, 12rem);
     position: absolute;
     /* -49px - -37px */
     right: clamp(-0.0625rem, -4vw, -1.3125rem);
