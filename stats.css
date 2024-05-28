@@ -140,14 +140,14 @@
   }
   #stats-1687 .cs-graphic {
     /* 131px - 233px */
-    width: clamp(8.1875rem, 16vw, 14.5625rem);
+    width: clamp(3rem, 16vw, 7rem);
     /* 131px - 233px */
-    height: clamp(8.1875rem, 16vw, 14.5625rem);
+    height: clamp(3rem, 16vw, 7rem);
     position: absolute;
     /* -49px - -37px */
-    right: clamp(-3.0625rem, -4vw, -2.3125rem);
+    right: clamp(-0.0625rem, -4vw, -1.3125rem);
     /* -8px - -40px */
-    bottom: calc(clamp(0.5rem, 3vw, 2.5rem) * -1);
+    bottom: calc(clamp(0.5rem, 3vw, 2.5rem) * -0);
     z-index: 0;
   }
 }
