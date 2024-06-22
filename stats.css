@@ -161,7 +161,7 @@
     /* -8px - -40px */
     bottom: calc(clamp(0.5rem, 3vw, 2.5rem) * -0);
     z-index: 0;
-    -webkit-box-reflect: right;
+    transform: scalex(-1);
   }
 }
 /* Tablet - 768px */
